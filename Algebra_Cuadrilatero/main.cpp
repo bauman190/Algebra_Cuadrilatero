@@ -1,6 +1,3 @@
-//Cambiar la funcion CheckColissionLines() por algo que hagamos nosotros
-//Chequear caso reloj de arena tomando en cuenta solo los lados del cuadriletro y no el segmento completo
-//Calcular permietro y area (tambien hay que aislar los lados)
 
 #include <iostream>
 #include <string>
